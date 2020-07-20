@@ -18,5 +18,5 @@ end
 
 def using_shift(array)
   my_favorite_cities = ["houston","atlanta","Vegas"]
-  array.shift("Dallas")
+  array.shift()
 end
