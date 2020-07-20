@@ -14,3 +14,4 @@ end
 def pop_with_args(array)
   continents = ["north america","Africa","Antartica"]
   array.pop(2)
+end
